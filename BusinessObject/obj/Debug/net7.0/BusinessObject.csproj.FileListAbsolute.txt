@@ -1,0 +1,11 @@
+D:\study\project\Ass01Solution\BusinessObject\bin\Debug\net7.0\BusinessObject.deps.json
+D:\study\project\Ass01Solution\BusinessObject\bin\Debug\net7.0\BusinessObject.dll
+D:\study\project\Ass01Solution\BusinessObject\bin\Debug\net7.0\BusinessObject.pdb
+D:\study\project\Ass01Solution\BusinessObject\obj\Debug\net7.0\BusinessObject.GeneratedMSBuildEditorConfig.editorconfig
+D:\study\project\Ass01Solution\BusinessObject\obj\Debug\net7.0\BusinessObject.AssemblyInfoInputs.cache
+D:\study\project\Ass01Solution\BusinessObject\obj\Debug\net7.0\BusinessObject.AssemblyInfo.cs
+D:\study\project\Ass01Solution\BusinessObject\obj\Debug\net7.0\BusinessObject.csproj.CoreCompileInputs.cache
+D:\study\project\Ass01Solution\BusinessObject\obj\Debug\net7.0\BusinessObject.dll
+D:\study\project\Ass01Solution\BusinessObject\obj\Debug\net7.0\refint\BusinessObject.dll
+D:\study\project\Ass01Solution\BusinessObject\obj\Debug\net7.0\BusinessObject.pdb
+D:\study\project\Ass01Solution\BusinessObject\obj\Debug\net7.0\ref\BusinessObject.dll

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ihug6sTP8l5NikYMbMEA4FHIFOV1lx4PhB6eccLb1n4czY5ssUmZvwMH2NUyl+525JbCCV5yMt1OiPYXUtDzYA==",
+  "success": true,
+  "projectFilePath": "D:\\study\\project\\Ass01Solution\\MyStoreWinApp\\MyStoreWinApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Alien\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
